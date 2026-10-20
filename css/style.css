@@ -17,3 +17,7 @@ footer {
 img {
     object-fit: cover;
 }
+
+ul li {
+    list-style: none;
+}
