@@ -35,3 +35,10 @@ img.card-img-top {
 div.card:hover{
     scale: 1.1;
 }
+
+div.position-sticky {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
